@@ -1,0 +1,22 @@
+{
+  "name": "Yusuke-claude-code",
+  "version": "1.0.0",
+  "description": "LLM training skill plugin providing disciplined, nanoGPT-inspired workflows for training, scaling, and aligning language models",
+  "owner": {
+    "name": "Yusuke Miyashita",
+    "contact": "[email protected]"
+  },
+  "plugins": [
+    {
+      "name": "nanollm-train",
+      "description": "End-to-end recipe for training LLMs from scratch or adapting them. Use this skill for designing, debugging, scaling, or aligning transformer LLMs. Prioritizes correctness, minimal abstractions, and avoiding expensive mistakes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Yusuke Miyashita",
+        "contact": "[email protected]"
+      },
+      "source": "./plugins/nanollm-train",
+      "category": "development"
+    }
+  ]
+}
