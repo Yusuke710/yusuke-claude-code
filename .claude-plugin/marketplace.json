@@ -1,5 +1,5 @@
 {
-  "name": "Yusuke-claude-code",
+  "name": "yusuke-claude-code",
   "version": "1.0.0",
   "description": "LLM training skill plugin providing disciplined, nanoGPT-inspired workflows for training, scaling, and aligning language models",
   "owner": {
