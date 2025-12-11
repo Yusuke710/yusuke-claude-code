@@ -1,5 +1,5 @@
 ---
-name: llm-trainer
+name: nanollm-train
 description: End-to-end recipe for training LLMs from scratch or adapting them. Use this skill whenever the user asks about designing, debugging, scaling, or aligning transformer LLMs. Prioritizes correctness, minimal abstractions, and avoiding expensive mistakes.
 license: refer to README.md
 ---
