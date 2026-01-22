@@ -1,0 +1,5 @@
+{
+  "name": "video-frame-reader",
+  "description": "A skill that extracts keyframes from video files and analyzes their content. Automatically removes duplicate frames and optimizes image quality to reduce token consumption.",
+  "version": "1.0.0"
+}
