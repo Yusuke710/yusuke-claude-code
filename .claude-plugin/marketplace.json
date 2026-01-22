@@ -23,8 +23,8 @@
       "description": "Extract keyframes from video files and analyze their content. Automatically removes duplicate frames and optimizes image quality to reduce token consumption.",
       "version": "1.0.0",
       "author": {
-        "name": "Yusuke Miyashita",
-        "email": "[email protected]"
+        "name": "Anonymous",
+        "email": ""
       },
       "source": "./plugins/video-frame-reader",
       "category": "media"
