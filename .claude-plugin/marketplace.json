@@ -23,11 +23,22 @@
       "description": "Extract keyframes from video files and analyze their content. Automatically removes duplicate frames and optimizes image quality to reduce token consumption.",
       "version": "1.0.0",
       "author": {
-        "name": "Anonymous",
-        "email": ""
+        "name": "riku720720",
+        "email": "https://x.com/riku720720"
       },
       "source": "./plugins/video-frame-reader",
       "category": "media"
+    },
+    {
+      "name": "codex",
+      "description": "Use Codex CLI (OpenAI) for code review, design consultation, bug investigation, and difficult problem analysis. Provides real-time progress visibility compared to MCP-based integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "owayo",
+        "email": "https://zenn.dev/owayo"
+      },
+      "source": "./plugins/codex",
+      "category": "development"
     }
   ]
 }

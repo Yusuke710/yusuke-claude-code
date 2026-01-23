@@ -1,0 +1,5 @@
+{
+  "name": "codex",
+  "description": "Use Codex CLI (OpenAI) for code review, design consultation, bug investigation, and difficult problem analysis.",
+  "version": "1.0.0"
+}
