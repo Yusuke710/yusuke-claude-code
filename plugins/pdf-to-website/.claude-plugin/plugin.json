@@ -1,0 +1,5 @@
+{
+  "name": "pdf-to-website",
+  "description": "Convert PDF books into beautiful reading websites with navigation, dark mode, and recreated diagrams. Includes OCR extraction, text cleaning, diagram recreation, and browser-based verification workflow.",
+  "version": "1.0.0"
+}
