@@ -33,6 +33,7 @@ Read individual rule files for detailed explanations and code examples:
 - [rules/diagram-extraction.md](rules/diagram-extraction.md) - Extracting PDF pages and recreating diagrams as HTML/CSS
 - [rules/website-generation.md](rules/website-generation.md) - Generating the reading website with navigation and theming
 - [rules/browser-feedback-loop.md](rules/browser-feedback-loop.md) - Using Claude in Chrome to verify and fix issues
+- [rules/vercel-deployment.md](rules/vercel-deployment.md) - Deploy to Vercel with simple password protection
 
 ## Workflow Summary
 
